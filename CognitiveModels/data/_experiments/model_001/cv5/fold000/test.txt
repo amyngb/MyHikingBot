@@ -1,0 +1,7 @@
+Label	Weight	Text
+l_hikes	1	backpacking outdoors close
+l_hikes	1	is it hot
+l_hikes	1	forecast
+q_hikes	1	Find a hiking partner
+q_hikes	1	Hiking buddies
+q_hikes	1	Get in shape for hiking

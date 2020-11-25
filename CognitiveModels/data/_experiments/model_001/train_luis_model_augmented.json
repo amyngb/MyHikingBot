@@ -1,0 +1,173 @@
+﻿{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_hikes"
+    },
+    {
+      "name": "q_hikes"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "backpacking outdoors close",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "is it hot",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "forecast",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "best trail for walking",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "is it cold",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "closest hike to columbus",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "where is a good hike near me",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "trails nearby",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "what is the temperature",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "find me a hike near",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "what is the weather",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "is it raining",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "is it good weather",
+      "intent": "l_hikes",
+      "entities": []
+    },
+    {
+      "text": "find a hiking partner",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "hiking buddies",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "get in shape for hiking",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "find a trail",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "exercises to train for hiking",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "choose a hiking route",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "solo hiking",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "how to train for hiking.",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "who should i hike with",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "hike in a group",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "hiking alone",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "where should i hike",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "hike with friends",
+      "intent": "q_hikes",
+      "entities": []
+    },
+    {
+      "text": "what are the best shoes for hiking",
+      "intent": "q_hikes",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "HikesBotDispatch",
+  "desc": "Dispatch model for HikesBotDispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

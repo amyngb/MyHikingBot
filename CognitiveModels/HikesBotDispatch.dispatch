@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_hikes",
+      "appId": "f9e417e9-39d1-4be3-a846-34e6fbbaae7b",
+      "authoringKey": "73919c55db1a4cdb86580bf32f3658b8",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Bot",
+      "id": "1"
+    },
+    {
+      "intentName": "q_hikes",
+      "includePrompts": true,
+      "kbId": "7fa456b8-bde6-454d-ac24-e0c19c06e4ab",
+      "subscriptionKey": "2065564664ab4f2f982cb0b189ef5ce8",
+      "type": "qna",
+      "name": "HikingFAQ",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "aa52d3ee-4593-4508-a18f-3e92cd01890f",
+  "authoringKey": "73919c55db1a4cdb86580bf32f3658b8",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "HikesBotDispatch"
+}

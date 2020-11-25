@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_hikes	13	17.84615	28	8	6.69385
+1	q_hikes	14	19.57143	34	11	6.71066
+ 	__ALL__	27	18.74074	34	8	6.63089

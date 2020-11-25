@@ -1,0 +1,7 @@
+Label	Weight	Text
+l_hikes	1	what is the weather
+l_hikes	1	is it raining
+l_hikes	1	is it good weather
+q_hikes	1	Where should I hike
+q_hikes	1	Hike with friends
+q_hikes	1	What are the best shoes for hiking

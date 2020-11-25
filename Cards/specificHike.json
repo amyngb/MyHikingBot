@@ -1,0 +1,52 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "size": "Large",
+          "weight": "Bolder",
+          "color": "Accent",
+          "text": "Camp Chase Trail",
+          "horizontalAlignment": "Center",
+          "wrap": true
+        },
+        {
+          "type": "Image",
+          "url": "https://cdn2.apstatic.com/photos/hike/7024736_sqsmall_1554847552.jpg",
+          "horizontalAlignment": "Center"
+        },
+        {
+          "type": "TextBlock",
+          "text": "Data is sourced from Hiking Project Data API https://www.hikingproject.com/data",
+          "horizontalAlignment": "Center",
+          "size": "Small",
+          "color": "Accent",
+          "weight": "Lighter",
+          "wrap": true
+        }
+      ]
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Location:",
+          "value": "Upper Arlington, OH"
+        },
+        {
+          "title": "Summary:",
+          "value": "A paved trail with urban and rural elements, this route is mostly flat and runs along a railway."
+        },
+        {
+          "title": "Length:",
+          "value": "16.3 mi"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3"
+}

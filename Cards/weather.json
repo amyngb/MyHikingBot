@@ -1,0 +1,43 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "size": "Large",
+          "weight": "Bolder",
+          "color": "Accent",
+          "text": "Weather in Columbus",
+          "horizontalAlignment": "Center",
+          "wrap": true
+        },
+        {
+          "type": "TextBlock",
+          "text": "Data is sourced from Dark Sky API https://rapidapi.com/darkskyapis/api/dark-sky/",
+          "horizontalAlignment": "Center",
+          "size": "Small",
+          "color": "Accent",
+          "weight": "Lighter",
+          "wrap": true
+        }
+      ]
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Summary:",
+          "value": "Mostly cloudy"
+        },
+        {
+          "title": "Temperature:",
+          "value": "57.33"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3"
+}

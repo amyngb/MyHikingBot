@@ -1,0 +1,7 @@
+Label	Weight	Text
+l_hikes	1	where is a good hike near me
+l_hikes	1	trails nearby
+l_hikes	1	what is the temperature
+q_hikes	1	Solo hiking
+q_hikes	1	How to train for hiking.
+q_hikes	1	Who should I hike with

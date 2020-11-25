@@ -1,0 +1,100 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "hikesNearby",
+      "features": []
+    },
+    {
+      "name": "hikingWeather",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "backpacking outdoors close",
+      "intent": "hikesNearby",
+      "entities": []
+    },
+    {
+      "text": "best trail for walking",
+      "intent": "hikesNearby",
+      "entities": []
+    },
+    {
+      "text": "closest hike to columbus",
+      "intent": "hikesNearby",
+      "entities": []
+    },
+    {
+      "text": "find me a hike near",
+      "intent": "hikesNearby",
+      "entities": []
+    },
+    {
+      "text": "forecast",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "is it cold",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "is it good weather",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "is it hot",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "is it raining",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "trails nearby",
+      "intent": "hikesNearby",
+      "entities": []
+    },
+    {
+      "text": "what is the temperature",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "what is the weather",
+      "intent": "hikingWeather",
+      "entities": []
+    },
+    {
+      "text": "where is a good hike near me",
+      "intent": "hikesNearby",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1",
+  "name": "Bot",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

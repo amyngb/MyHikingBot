@@ -1,0 +1,94 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "There are several easy ways to find a hiking trail that will meet your needs:\n\n*   [**Guidebooks** ](https://www.rei.com/c/camping-and-hiking-guidebooks)**and websites** are great resources because you can get all the stats you need: trail difficulty, distance, elevation gain, directions, water sources, trail features and whether dogs are allowed. Websites often display recent trip reports that may give you a sense for what current trail conditions are like.\n*   **Word of mouth:** If you have friends who like to hike, ask them to suggest some locations for you.\n*   **Talk to locals:** Contact a local hiking organization or call a ranger station in the area where you want to hike. Rangers typically have up-to-date trail conditions and are skilled at suggesting hikes for all skill levels.",
+      "source": "HikingBotKB.tsv",
+      "questions": [
+        "Choose a hiking route",
+        "Where should I hike",
+        "Find a trail\n\n"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2020-11-15T15:01:54.77+00:00"
+    },
+    {
+      "id": 2,
+      "answer": "Just do it.",
+      "source": "HikingBotKB.tsv",
+      "questions": [
+        "How to train for hiking.",
+        "Get in shape for hiking\n\n",
+        "Exercises to train for hiking"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2020-11-15T14:58:37.03+00:00"
+    },
+    {
+      "id": 3,
+      "answer": "Sturdy shoes.  Consider waterproofing, comfort and breathability.  Wool socks are best.",
+      "source": "HikingBotKB.tsv",
+      "questions": [
+        "What are the best shoes for hiking?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2020-11-15T14:53:54.554+00:00"
+    },
+    {
+      "id": 4,
+      "answer": "If you have friends who hike, ask them to take you on a trek. Most people are happy to share their expertise, let you borrow gear and introduce newbies to their favorite trails.\n\nIf you don’t know any hikers, many cities and towns have hiking clubs that regularly plan outings.",
+      "source": "Editorial",
+      "questions": [
+        "Find a hiking partner",
+        "Hiking buddies",
+        "Who should I hike with\n\n",
+        "Hike with friends\n\n",
+        "Hike in a group"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2020-11-15T15:54:10.579+00:00"
+    },
+    {
+      "id": 5,
+      "answer": "Experiencing the outdoors by yourself can give you a sense of freedom and adventure that are hard to find elsewhere. But it can also be intimidating and lonely at times. If you’re new to hiking, we recommend finding a companion to keep you company. That person will also be there to lend a hand if you happen to get hurt. If going alone really is your only option, then start out with short trips to popular hiking destinations and make sure someone always knows where you’re going and how long you plan to be gone.",
+      "source": "Editorial",
+      "questions": [
+        "Hiking alone",
+        "Solo hiking\n\n"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 4,
+            "displayText": "Would you like information about how to find a hiking partner?"
+          }
+        ]
+      },
+      "lastUpdatedTimestamp": "2020-11-15T15:54:10.579+00:00"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Label	Weight	Text
+l_hikes	1	best trail for walking
+l_hikes	1	is it cold
+l_hikes	1	closest hike to columbus
+q_hikes	1	Find a trail
+q_hikes	1	Exercises to train for hiking
+q_hikes	1	Choose a hiking route

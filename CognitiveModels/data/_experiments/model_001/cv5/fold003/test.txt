@@ -1,0 +1,7 @@
+Label	Weight	Text
+l_hikes	1	find me a hike near
+l_hikes	1	what is the weather
+l_hikes	1	is it raining
+q_hikes	1	Hike in a group
+q_hikes	1	Hiking alone
+q_hikes	1	Where should I hike

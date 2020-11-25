@@ -1,0 +1,60 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "size": "Large",
+          "weight": "Bolder",
+          "color": "Accent",
+          "text": "Hikes Near Me",
+          "horizontalAlignment": "Center",
+          "wrap": true
+        },
+        {
+          "type": "TextBlock",
+          "text": "Data is sourced from Hiking Project Data API https://www.hikingproject.com/data",
+          "horizontalAlignment": "Center",
+          "size": "Small",
+          "color": "Accent",
+          "weight": "Lighter",
+          "wrap": true
+        },
+        {
+          "type": "TextBlock",
+          "text": "Columbus, OH",
+          "color": "Dark",
+          "horizontalAlignment": "Center",
+          "spacing": "Medium",
+          "size": "Medium",
+          "weight": "Bolder"
+        }
+      ]
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Scioto Loop",
+          "value": "Great views of a creek, rock bridge and rope bridge make this hike along the river really fun for kids!"
+        },
+        {
+          "title": "Blendon Woods Metro Park",
+          "value": "Come experience this park's abundant wildlife, scenic trails, and dense woodlands."
+        },
+        {
+          "title": "Blendon Woods Metro Park",
+          "value": "Come experience this park's abundant wildlife, scenic trails, and dense woodlands."
+        },
+        {
+          "title": "Blendon Woods Metro Park",
+          "value": "Come experience this park's abundant wildlife, scenic trails, and dense woodlands."
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3"
+}

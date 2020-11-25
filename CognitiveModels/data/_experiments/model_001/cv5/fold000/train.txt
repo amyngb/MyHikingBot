@@ -1,0 +1,22 @@
+Label	Weight	Text
+l_hikes	1	best trail for walking
+l_hikes	1	is it cold
+l_hikes	1	closest hike to columbus
+l_hikes	1	where is a good hike near me
+l_hikes	1	trails nearby
+l_hikes	1	what is the temperature
+l_hikes	1	find me a hike near
+l_hikes	1	what is the weather
+l_hikes	1	is it raining
+l_hikes	1	is it good weather
+q_hikes	1	Find a trail
+q_hikes	1	Exercises to train for hiking
+q_hikes	1	Choose a hiking route
+q_hikes	1	Solo hiking
+q_hikes	1	How to train for hiking.
+q_hikes	1	Who should I hike with
+q_hikes	1	Hike in a group
+q_hikes	1	Hiking alone
+q_hikes	1	Where should I hike
+q_hikes	1	Hike with friends
+q_hikes	1	What are the best shoes for hiking
